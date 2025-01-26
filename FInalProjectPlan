@@ -1,0 +1,7 @@
+CONTACT BOOK
+At first we will give the users 5 options-
+  1.Add new contact:(Here we will use Empty list variable and append to add new names)
+  2.Search contact:(if-else,index will be used)
+  3.Edit contact:(
+  4.Delete contact:
+  5.Exit
