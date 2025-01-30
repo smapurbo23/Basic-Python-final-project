@@ -43,5 +43,4 @@ if user == 2:
 #
 #      if search in names:
 #             print(names.)
-a = 1
-b = 1
+
